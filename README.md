@@ -2,7 +2,6 @@
 title: "ReadMe"
 author: "Eliza"
 date: "August 20, 2015"
-output: html_document
 ---
 
 ## Intro
